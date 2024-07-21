@@ -1,0 +1,10 @@
+
+Flask==3.0.3
+numpy==1.23.5
+opencv_contrib_python==4.7.0.72
+opencv_contrib_python_headless==4.10.0.84
+opencv_python==4.9.0.80
+pandas==1.5.3
+pymongo==4.7.1
+pytesseract==0.3.10
+ultralytics==8.2.41
